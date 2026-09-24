@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives/Installers
+*.dmg
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+
+# Media & large files
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.ico
+
+# Documents
+*.pdf
+*.docx
+*.xlsx
+
+# Keys
+*.key
+*.pem
+
+# Temporary
+*.crdownload
+*.part
+
+# Node
+node_modules/
