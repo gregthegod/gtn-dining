@@ -1,0 +1,11 @@
+{
+  "name": "GTN Dining",
+  "short_name": "GTN",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F2F2F7",
+  "theme_color": "#0A84FF",
+  "icons": [
+    { "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABG0lEQVR4Xu3XwQ3AIAwEwZy/6b0KYaQ0hQ2qkzHf0Yx2mZ3M+v2gDgQIECBAgAABAgQIECBAgAAB8m9l5g8t3w/9n4Gqv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf4z0G3qv8n6A4tqf5gH/HUqI5+3i2wAAAABJRU5ErkJggg==", "sizes": "128x128", "type": "image/png"}
+  ]
+}
